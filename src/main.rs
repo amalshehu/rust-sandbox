@@ -1,4 +1,6 @@
 mod print;
+mod variables;
 fn main() {
-    print::run()
+    // print::run()
+    variables::run();
 }
