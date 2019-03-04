@@ -1,0 +1,7 @@
+[package]
+name = "rust-sandbox"
+version = "0.1.0"
+authors = ["amalshehu"]
+edition = "2018"
+
+[dependencies]
