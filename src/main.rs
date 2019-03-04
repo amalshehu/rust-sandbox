@@ -1,5 +1,6 @@
 mod arrays;
 mod datatypes;
+mod loops;
 mod print;
 mod string;
 mod tuples;
@@ -10,5 +11,6 @@ fn main() {
     // variables::run();
     // datatypes::run()
     // string::run()
-    vectors::run()
+    // vectors::run()
+    loops::run()
 }
