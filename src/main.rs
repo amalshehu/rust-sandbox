@@ -1,6 +1,8 @@
+mod datatypes;
 mod print;
 mod variables;
 fn main() {
     // print::run()
-    variables::run();
+    // variables::run();
+    datatypes::run()
 }
