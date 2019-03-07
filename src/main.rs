@@ -8,7 +8,10 @@
 // mod variables;
 // mod vectors;
 mod pointers;
+mod structs;
+
 fn main() {
+    structs::run();
     // print::run()
     // variables::run();
     // datatypes::run()
@@ -16,5 +19,5 @@ fn main() {
     // vectors::run()
     // loops::run()
     // functions::run(8);
-    pointers::run()
+    // pointers::run()
 }
